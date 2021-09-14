@@ -2,7 +2,7 @@ def fizzBuzz(n):
     # TODO imprimer la chaine de caractère appropriée avec la fonction print().
     #  Assigner ensuite la valeur à la variable resultat
 
-    resultat = asdfsaf
+    resultat = asdfsafaf
     return resultat
 
 if __name__ == '__main__':
